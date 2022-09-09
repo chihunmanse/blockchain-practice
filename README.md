@@ -2,6 +2,6 @@
 
 ## 1. blockchain
 
-## 2. cryptoCurrency
+## 2. crypto-currency
 
-## 3. smartContract
+## 3. smart-contract
